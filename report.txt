@@ -1,0 +1,35 @@
+ Task 02 – Data Cleaning and Preparation
+
+## Objective
+
+The objective of this task was to clean and prepare a raw dataset for analysis using Python and the Pandas library. Data cleaning is a crucial step in the data analytics workflow as it improves data quality, consistency, and reliability.
+
+## Dataset
+
+* Dataset Name: Global Superstore Dataset
+* Format: CSV
+* Tool Used: Python (Pandas)
+* Development Environment: Visual Studio Code
+
+## Data Cleaning Process
+
+The following data preprocessing steps were performed:
+
+1. Loaded the dataset using the Pandas library.
+2. Examined the dataset structure, dimensions, and column information.
+3. Identified missing values across all columns.
+4. Detected and removed duplicate records to ensure data integrity.
+5. Converted date columns (`Order.Date` and `Ship.Date`) into proper datetime format.
+6. Removed rows containing missing values to improve data quality.
+7. Exported the cleaned dataset into a new CSV file named `superstore_cleaned.csv`.
+
+## Results
+
+* Successfully cleaned the dataset and prepared it for further analysis.
+* Improved data consistency by removing duplicate and incomplete records.
+* Converted date fields to appropriate data types for future time-based analysis.
+* Generated a cleaned dataset ready for visualization and analytics projects.
+
+## Conclusion
+
+This task provided practical experience in data preprocessing using Python and Pandas. The cleaned dataset can now be used for exploratory data analysis, dashboard creation, and machine learning applications.
